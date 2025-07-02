@@ -1,0 +1,19 @@
+# Use glob syntax
+syntax: glob
+
+# Py and PyCharm
+.idea/
+venv/
+__pycache__
+
+# VisualStudio
+.vs/Example/v16/.suo
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vscode/
+
+# File types
+*.pdf
+*.zip
+*.exe
+
